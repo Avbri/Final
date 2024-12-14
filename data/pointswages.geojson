@@ -1,0 +1,2383 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 11,
+            "SENATOR": "Richard C Shelby",
+            "PARTY": "R",
+            "STATE": "AL",
+            "NET": "19,145,013 ",
+            "MAXNET": "30,700,000 ",
+            "NAME": "Alabama",
+            "name": "Alabama"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.79113, 32.806671]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.15,
+            "y2009": 7.25,
+            "y2010": 7.75,
+            "y2011": 7.75,
+            "y2012": 7.75,
+            "y2013": 7.75,
+            "y2014": 7.75,
+            "y2015": 8.75,
+            "y2016": 9.75,
+            "y2017": 9.8,
+            "y2018": 9.84,
+            "Rank": 27,
+            "SENATOR": "Doug Jones",
+            "PARTY": "D",
+            "STATE": "AL",
+            "NET": "5,209,563 ",
+            "MAXNET": "8,192,997 ",
+            "NAME": "Alabama",
+            "": "",
+            "name": "Alaska"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.79113, 32.806671]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.9,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.35,
+            "y2012": 7.65,
+            "y2013": 7.8,
+            "y2014": 7.9,
+            "y2015": 8.05,
+            "y2016": 8.05,
+            "y2017": 10,
+            "y2018": 10.5,
+            "Rank": 45,
+            "SENATOR": "Dan Sullivan",
+            "PARTY": "R",
+            "STATE": "AK",
+            "NET": "2,372,519 ",
+            "MAXNET": "3,758,997 ",
+            "NAME": "Alaska",
+            "": "",
+            "name": "Arizona"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-152.404419, 61.370716]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.25,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.5,
+            "y2016": 8,
+            "y2017": 8.5,
+            "y2018": 8.5,
+            "Rank": 54,
+            "SENATOR": "Lisa Murkowski",
+            "PARTY": "R",
+            "STATE": "AK",
+            "NET": "1,499,011 ",
+            "MAXNET": "2,180,999 ",
+            "NAME": "Alaska",
+            "": "",
+            "name": "Arkansas"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-152.404419, 61.370716]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 8,
+            "y2009": 8,
+            "y2010": 8,
+            "y2011": 8,
+            "y2012": 8,
+            "y2013": 8,
+            "y2014": 9,
+            "y2015": 9,
+            "y2016": 10,
+            "y2017": 10.5,
+            "y2018": 11.001,
+            "Rank": 67,
+            "SENATOR": "Tom Cotton",
+            "PARTY": "R",
+            "STATE": "AR",
+            "NET": "498,008 ",
+            "MAXNET": "767,000 ",
+            "NAME": "Arkansas",
+            "": "",
+            "name": "California"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.373123, 34.969704]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.02,
+            "y2009": 7.28,
+            "y2010": 7.24,
+            "y2011": 7.36,
+            "y2012": 7.64,
+            "y2013": 7.78,
+            "y2014": 8,
+            "y2015": 8.23,
+            "y2016": 8.31,
+            "y2017": 9.3,
+            "y2018": 10.2,
+            "Rank": 2,
+            "SENATOR": "Dianne Feinstein",
+            "PARTY": "D",
+            "STATE": "CA",
+            "NET": "87,938,540 ",
+            "MAXNET": "120,850,011 ",
+            "NAME": "California",
+            "": "",
+            "name": "Colorado"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-119.681564, 36.116203]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.65,
+            "y2009": 8,
+            "y2010": 8.25,
+            "y2011": 8.25,
+            "y2012": 8.25,
+            "y2013": 8.25,
+            "y2014": 8.7,
+            "y2015": 9.15,
+            "y2016": 9.6,
+            "y2017": 10.1,
+            "y2018": 10.1,
+            "Rank": 37,
+            "SENATOR": "Kamala Harris",
+            "PARTY": "D",
+            "STATE": "CA",
+            "NET": "3,499,026 ",
+            "MAXNET": "5,405,999 ",
+            "NAME": "California",
+            "": "",
+            "name": "Connecticut"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-119.681564, 36.116203]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.15,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.75,
+            "y2015": 8.25,
+            "y2016": 8.25,
+            "y2017": 8.25,
+            "y2018": 8.25,
+            "Rank": 12,
+            "SENATOR": "Michael Bennet",
+            "PARTY": "D",
+            "STATE": "CO",
+            "NET": "15,706,014 ",
+            "MAXNET": "25,135,000 ",
+            "NAME": "Colorado",
+            "": "",
+            "name": "Delaware"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-105.311104, 39.059811]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.55,
+            "y2009": 8.25,
+            "y2010": 8.25,
+            "y2011": 8.25,
+            "y2012": 8.25,
+            "y2013": 8.25,
+            "y2014": 9.5,
+            "y2015": 10.5,
+            "y2016": 11.5,
+            "y2017": 12.5,
+            "y2018": 13.25,
+            "Rank": 59,
+            "SENATOR": "Cory Gardner",
+            "PARTY": "R",
+            "STATE": "CO",
+            "NET": "850,518 ",
+            "MAXNET": "1,374,999 ",
+            "NAME": "Colorado",
+            "": "",
+            "name": "District of Columbia"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-105.311104, 39.059811]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.79,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.31,
+            "y2012": 7.67,
+            "y2013": 7.79,
+            "y2014": 7.93,
+            "y2015": 8.05,
+            "y2016": 8.05,
+            "y2017": 8.1,
+            "y2018": 8.25,
+            "Rank": 78,
+            "SENATOR": "Christopher S Murphy",
+            "PARTY": "D",
+            "STATE": "CT",
+            "NET": "(149,991)",
+            "MAXNET": "769,996 ",
+            "NAME": "Connecticut",
+            "": "",
+            "name": "Florida"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.755371, 41.597782]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 15,
+            "SENATOR": "Chris Coons",
+            "PARTY": "D",
+            "STATE": "DE",
+            "NET": "",
+            "MAXNET": "",
+            "NAME": "Delaware",
+            "": "",
+            "name": "Georgia"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.507141, 39.318523]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.25,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.75,
+            "y2016": 8.5,
+            "y2017": 9.25,
+            "y2018": 10.1,
+            "Rank": 25,
+            "SENATOR": "Tom Carper",
+            "PARTY": "D",
+            "STATE": "DE",
+            "NET": "5,726,595 ",
+            "MAXNET": "8,619,999 ",
+            "NAME": "Delaware",
+            "": "",
+            "name": "Hawaii"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.507141, 39.318523]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 84,
+            "SENATOR": "Marco Rubio",
+            "PARTY": "R",
+            "STATE": "FL",
+            "NET": "(1,262,995)",
+            "MAXNET": "(629,002)",
+            "NAME": "Florida",
+            "": "",
+            "name": "Idaho"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.686783, 27.766279]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.75,
+            "y2009": 8,
+            "y2010": 8.25,
+            "y2011": 8.25,
+            "y2012": 8.25,
+            "y2013": 8.25,
+            "y2014": 8.25,
+            "y2015": 8.25,
+            "y2016": 8.25,
+            "y2017": 8.25,
+            "y2018": 8.25,
+            "Rank": 4,
+            "SENATOR": "Johnny Isakson",
+            "PARTY": "R",
+            "STATE": "GA",
+            "NET": "43,006,021 ",
+            "MAXNET": "69,502,000 ",
+            "NAME": "Georgia",
+            "": "",
+            "name": "Illinois"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.643074, 33.040619]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 10,
+            "SENATOR": "David Perdue",
+            "PARTY": "R",
+            "STATE": "GA",
+            "NET": "25,822,596 ",
+            "MAXNET": "41,449,999 ",
+            "NAME": "Georgia",
+            "": "",
+            "name": "Indiana"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-83.643074, 33.040619]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.25,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 32,
+            "SENATOR": "Mazie K Hirono",
+            "PARTY": "D",
+            "STATE": "HI",
+            "NET": "4,339,019 ",
+            "MAXNET": "6,017,000 ",
+            "NAME": "Hawaii",
+            "": "",
+            "name": "Iowa"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-157.498337, 21.094318]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 2.65,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 81,
+            "SENATOR": "Brian Schatz",
+            "PARTY": "D",
+            "STATE": "HI",
+            "NET": "(554,493)",
+            "MAXNET": "133,997 ",
+            "NAME": "Hawaii",
+            "": "",
+            "name": "Kansas"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-157.498337, 21.094318]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 5,
+            "SENATOR": "James E Risch",
+            "PARTY": "R",
+            "STATE": "ID",
+            "NET": "41,807,024 ",
+            "MAXNET": "68,439,996 ",
+            "NAME": "Idaho",
+            "": "",
+            "name": "Kentucky"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-114.478828, 44.240459]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 58,
+            "SENATOR": "Mike Crapo",
+            "PARTY": "R",
+            "STATE": "ID",
+            "NET": "944,521 ",
+            "MAXNET": "1,684,999 ",
+            "NAME": "Idaho",
+            "": "",
+            "name": "Louisiana"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-114.478828, 44.240459]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.25,
+            "y2009": 7.25,
+            "y2010": 7.5,
+            "y2011": 7.5,
+            "y2012": 7.5,
+            "y2013": 7.5,
+            "y2014": 7.5,
+            "y2015": 7.5,
+            "y2016": 7.5,
+            "y2017": 9,
+            "y2018": 10,
+            "Rank": 63,
+            "SENATOR": "Tammy Duckworth",
+            "PARTY": "D",
+            "STATE": "IL",
+            "NET": "697,531 ",
+            "MAXNET": "1,255,999 ",
+            "NAME": "Illinois",
+            "": "",
+            "name": "Maine"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-88.986137, 40.349457]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.25,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 8,
+            "y2016": 8.75,
+            "y2017": 9.25,
+            "y2018": 10.1,
+            "Rank": 85,
+            "SENATOR": "Todd Young",
+            "PARTY": "R",
+            "STATE": "IN",
+            "NET": "(1,392,999)",
+            "MAXNET": "(790,005)",
+            "NAME": "Indiana",
+            "": "",
+            "name": "Maryland"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.258278, 39.849426]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 8,
+            "y2009": 8,
+            "y2010": 8,
+            "y2011": 8,
+            "y2012": 8,
+            "y2013": 8,
+            "y2014": 8,
+            "y2015": 9,
+            "y2016": 10,
+            "y2017": 11,
+            "y2018": 11,
+            "Rank": 20,
+            "SENATOR": "Chuck Grassley",
+            "PARTY": "R",
+            "STATE": "IO",
+            "NET": "7,550,075 ",
+            "MAXNET": "10,860,000 ",
+            "NAME": "Iowa",
+            "": "",
+            "name": "Massachusetts"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.210526, 42.011539]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.4,
+            "y2009": 7.4,
+            "y2010": 7.4,
+            "y2011": 7.4,
+            "y2012": 7.4,
+            "y2013": 7.4,
+            "y2014": 8.15,
+            "y2015": 8.15,
+            "y2016": 8.5,
+            "y2017": 8.9,
+            "y2018": 9.25,
+            "Rank": 80,
+            "SENATOR": "Joni Ernst",
+            "PARTY": "R",
+            "STATE": "IO",
+            "NET": "(196,984)",
+            "MAXNET": "389,998 ",
+            "NAME": "Iowa",
+            "": "",
+            "name": "Michigan"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.210526, 42.011539]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.15,
+            "y2009": 6.15,
+            "y2010": 6.15,
+            "y2011": 6.15,
+            "y2012": 6.15,
+            "y2013": 6.15,
+            "y2014": 8,
+            "y2015": 9,
+            "y2016": 9.5,
+            "y2017": 9.5,
+            "y2018": 9.654,
+            "Rank": 41,
+            "SENATOR": "Pat Roberts",
+            "PARTY": "R",
+            "STATE": "KS",
+            "NET": "2,966,514 ",
+            "MAXNET": "4,252,999 ",
+            "NAME": "Kansas",
+            "": "",
+            "name": "Minnesota"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.726486, 38.5266]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 51,
+            "SENATOR": "Jerry Moran",
+            "PARTY": "R",
+            "STATE": "KS",
+            "NET": "1,759,539 ",
+            "MAXNET": "2,769,999 ",
+            "NAME": "Kansas",
+            "": "",
+            "name": "Mississippi"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.726486, 38.5266]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.65,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.35,
+            "y2014": 7.5,
+            "y2015": 7.65,
+            "y2016": 7.65,
+            "y2017": 7.7,
+            "y2018": 7.85,
+            "Rank": 7,
+            "SENATOR": "Mitch McConnell",
+            "PARTY": "R",
+            "STATE": "KY",
+            "NET": "34,137,534 ",
+            "MAXNET": "54,830,000 ",
+            "NAME": "Kentucky",
+            "": "",
+            "name": "Missouri"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.670067, 37.66814]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.35,
+            "y2012": 7.65,
+            "y2013": 7.65,
+            "y2014": 7.9,
+            "y2015": 8.05,
+            "y2016": 8.05,
+            "y2017": 8.15,
+            "y2018": 8.3,
+            "Rank": 62,
+            "SENATOR": "Rand Paul",
+            "PARTY": "R",
+            "STATE": "KY",
+            "NET": "773,520 ",
+            "MAXNET": "1,376,999 ",
+            "NAME": "Kentucky",
+            "": "",
+            "name": "Montana"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.670067, 37.66814]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 8,
+            "y2016": 9,
+            "y2017": 9,
+            "y2018": 9,
+            "Rank": 83,
+            "SENATOR": "Bill Cassidy",
+            "PARTY": "R",
+            "STATE": "LA",
+            "NET": "(1,115,970)",
+            "MAXNET": "769,996 ",
+            "NAME": "Louisiana",
+            "": "",
+            "name": "Nebraska"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-91.867805, 31.169546]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.85,
+            "y2009": 7.55,
+            "y2010": 8.25,
+            "y2011": 8.25,
+            "y2012": 8.25,
+            "y2013": 8.25,
+            "y2014": 8.25,
+            "y2015": 8.25,
+            "y2016": 8.25,
+            "y2017": 8.25,
+            "y2018": 8.25,
+            "Rank": 16,
+            "SENATOR": "Angus King",
+            "PARTY": "I",
+            "STATE": "ME",
+            "NET": "9,494,061 ",
+            "MAXNET": "15,510,998 ",
+            "NAME": "Maine",
+            "": "",
+            "name": "Nevada"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-69.381927, 44.693947]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.25,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 34,
+            "SENATOR": "Susan Collins",
+            "PARTY": "R",
+            "STATE": "ME",
+            "NET": "4,124,043 ",
+            "MAXNET": "5,993,000 ",
+            "NAME": "Maine",
+            "": "",
+            "name": "New Hampshire"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-69.381927, 44.693947]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.15,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 8.25,
+            "y2015": 8.38,
+            "y2016": 8.38,
+            "y2017": 8.44,
+            "y2018": 8.6,
+            "Rank": 18,
+            "SENATOR": "Elizabeth Warren",
+            "PARTY": "D",
+            "STATE": "MA",
+            "NET": "7,977,513 ",
+            "MAXNET": "11,075,002 ",
+            "NAME": "Massachusets",
+            "": "",
+            "name": "New Jersey"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.530106, 42.230171]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.5,
+            "y2009": 7.5,
+            "y2010": 7.5,
+            "y2011": 7.5,
+            "y2012": 7.5,
+            "y2013": 7.5,
+            "y2014": 7.5,
+            "y2015": 7.5,
+            "y2016": 7.5,
+            "y2017": 7.5,
+            "y2018": 7.25,
+            "Rank": 40,
+            "SENATOR": "Ben Cardin",
+            "PARTY": "D",
+            "STATE": "MD",
+            "NET": "3,112,546 ",
+            "MAXNET": "4,623,000 ",
+            "NAME": "Maryland",
+            "": "",
+            "name": "New Mexico"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-76.802101, 39.063946]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.15,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 8,
+            "y2015": 8.75,
+            "y2016": 9,
+            "y2017": 9.7,
+            "y2018": 10.402,
+            "Rank": 31,
+            "SENATOR": "Gary Peters",
+            "PARTY": "D",
+            "STATE": "MI",
+            "NET": "4,368,105 ",
+            "MAXNET": "6,985,999 ",
+            "NAME": "Michigan",
+            "": "",
+            "name": "New York"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.536095, 43.326618]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 75,
+            "SENATOR": "Debbie Stabenow",
+            "PARTY": "D",
+            "STATE": "MI",
+            "NET": "32,500 ",
+            "MAXNET": "50,000 ",
+            "NAME": "Michigan",
+            "": "",
+            "name": "North Carolina"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.536095, 43.326618]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 52,
+            "SENATOR": "Tina Smith",
+            "PARTY": "D",
+            "STATE": "MN",
+            "NET": "1,696,020 ",
+            "MAXNET": "7,030,984 ",
+            "NAME": "Minnesota",
+            "": "",
+            "name": "North Dakota"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.900192, 45.694454]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7,
+            "y2009": 7.3,
+            "y2010": 7.3,
+            "y2011": 7.4,
+            "y2012": 7.7,
+            "y2013": 7.85,
+            "y2014": 7.95,
+            "y2015": 8.1,
+            "y2016": 8.1,
+            "y2017": 8.15,
+            "y2018": 8.3,
+            "Rank": 76,
+            "SENATOR": "Amy Klobuchar",
+            "PARTY": "D",
+            "STATE": "MI",
+            "NET": "0 ",
+            "MAXNET": "0 ",
+            "NAME": "Minnesota",
+            "": "",
+            "name": "Ohio"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-93.900192, 45.694454]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 33,
+            "SENATOR": "Cindy Hyde-Smith",
+            "PARTY": "R",
+            "STATE": "MS",
+            "NET": "4,175,541 ",
+            "MAXNET": "6,429,994 ",
+            "NAME": "Mississippi",
+            "": "",
+            "name": "Oklahoma"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.678696, 32.741646]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.95,
+            "y2009": 8.4,
+            "y2010": 8.4,
+            "y2011": 8.5,
+            "y2012": 8.8,
+            "y2013": 8.95,
+            "y2014": 9.1,
+            "y2015": 9.25,
+            "y2016": 9.75,
+            "y2017": 10.25,
+            "y2018": 10.753,
+            "Rank": 79,
+            "SENATOR": "Roger Wicker",
+            "PARTY": "R",
+            "STATE": "MS",
+            "NET": "(180,995)",
+            "MAXNET": "426,995 ",
+            "NAME": "Mississippi",
+            "": "",
+            "name": "Oregon"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.678696, 32.741646]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.15,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 26,
+            "SENATOR": "Roy Blunt",
+            "PARTY": "R",
+            "STATE": "MO",
+            "NET": "5,704,510 ",
+            "MAXNET": "8,809,999 ",
+            "NAME": "Missouri",
+            "": "",
+            "name": "Pennsylvania"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-92.288368, 38.456085]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 6.55,
+            "y2010": 6.55,
+            "y2011": 6.55,
+            "y2012": 6.55,
+            "y2013": 6.55,
+            "y2014": 6.55,
+            "y2015": 6.55,
+            "y2016": 6.55,
+            "y2017": 6.55,
+            "y2018": 6.55,
+            "Rank": 8,
+            "SENATOR": "Steven Daines",
+            "PARTY": "R",
+            "STATE": "MT",
+            "NET": "32,863,042 ",
+            "MAXNET": "52,284,000 ",
+            "NAME": "Montana",
+            "": "",
+            "name": "Puerto Rico"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-110.454353, 46.921925]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.4,
+            "y2009": 7.4,
+            "y2010": 7.4,
+            "y2011": 7.4,
+            "y2012": 7.4,
+            "y2013": 7.75,
+            "y2014": 8,
+            "y2015": 9,
+            "y2016": 9,
+            "y2017": 9.6,
+            "y2018": 10.1,
+            "Rank": 36,
+            "SENATOR": "Jon Tester",
+            "PARTY": "D",
+            "STATE": "MT",
+            "NET": "3,672,003 ",
+            "MAXNET": "6,059,999 ",
+            "NAME": "Montana",
+            "": "",
+            "name": "Rhode Island"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-110.454353, 46.921925]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 13,
+            "SENATOR": "Thom Tillis",
+            "PARTY": "R",
+            "STATE": "NC",
+            "NET": "10,966,045 ",
+            "MAXNET": "17,929,996 ",
+            "NAME": "North Carolina",
+            "": "",
+            "name": "South Carolina"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.806419, 35.630066]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 8.5,
+            "y2016": 8.5,
+            "y2017": 8.65,
+            "y2018": 8.65,
+            "Rank": 22,
+            "SENATOR": "Richard Burr",
+            "PARTY": "R",
+            "STATE": "NC",
+            "NET": "7,426,213 ",
+            "MAXNET": "11,426,212 ",
+            "NAME": "North Carolina",
+            "": "",
+            "name": "South Dakota"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.806419, 35.630066]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 5.58,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 3,
+            "SENATOR": "John Hoeven",
+            "PARTY": "R",
+            "STATE": "ND",
+            "NET": "46,689,569 ",
+            "MAXNET": "74,116,000 ",
+            "NAME": "North Dakota",
+            "": "",
+            "name": "Tennessee"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-99.784012, 47.528912]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 42,
+            "SENATOR": "Ben Sasse",
+            "PARTY": "R",
+            "STATE": "NV",
+            "NET": "2,788,007 ",
+            "MAXNET": "5,294,999 ",
+            "NAME": "Nebraska",
+            "": "",
+            "name": "Texas"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-98.268082, 41.12537]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 43,
+            "SENATOR": "Deb Fischer",
+            "PARTY": "R",
+            "STATE": "NV",
+            "NET": "2,776,005 ",
+            "MAXNET": "5,429,998 ",
+            "NAME": "Nebraska",
+            "": "",
+            "name": "Utah"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-98.268082, 41.12537]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.68,
+            "y2009": 8.06,
+            "y2010": 8.06,
+            "y2011": 8.15,
+            "y2012": 8.46,
+            "y2013": 8.6,
+            "y2014": 8.73,
+            "y2015": 9.15,
+            "y2016": 9.6,
+            "y2017": 10,
+            "y2018": 10.5,
+            "Rank": 29,
+            "SENATOR": "Catherine Cortez Masto",
+            "PARTY": "D",
+            "STATE": "NV",
+            "NET": "4,601,020 ",
+            "MAXNET": "6,851,998 ",
+            "NAME": "Nevada",
+            "": "",
+            "name": "Vermont"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-117.055374, 38.313515]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 35,
+            "SENATOR": "Jeanne Shaheen",
+            "PARTY": "D",
+            "STATE": "NH",
+            "NET": "3,823,005 ",
+            "MAXNET": "7,990,984 ",
+            "NAME": "New Hampshire",
+            "": "",
+            "name": "Virginia"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.563896, 43.452492]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 8.07,
+            "y2009": 8.55,
+            "y2010": 8.55,
+            "y2011": 8.67,
+            "y2012": 9.04,
+            "y2013": 9.19,
+            "y2014": 9.32,
+            "y2015": 9.47,
+            "y2016": 9.47,
+            "y2017": 11,
+            "y2018": 11.5,
+            "Rank": 38,
+            "SENATOR": "Maggie Hassan",
+            "PARTY": "D",
+            "STATE": "NH",
+            "NET": "3,467,042 ",
+            "MAXNET": "5,455,998 ",
+            "NAME": "New Hampshire",
+            "": "",
+            "name": "Washington"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.563896, 43.452492]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 7.25,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 8,
+            "y2016": 8.75,
+            "y2017": 8.75,
+            "y2018": 8.75,
+            "Rank": 61,
+            "SENATOR": "Cory Booker",
+            "PARTY": "D",
+            "STATE": "NJ",
+            "NET": "807,503 ",
+            "MAXNET": "1,100,000 ",
+            "NAME": "New Jersey",
+            "": "",
+            "name": "West Virginia"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.521011, 40.298904]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.5,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 65,
+            "SENATOR": "Robert Menendez",
+            "PARTY": "D",
+            "STATE": "NJ",
+            "NET": "541,502 ",
+            "MAXNET": "779,999 ",
+            "NAME": "New Jersey",
+            "": "",
+            "name": "Wisconsin"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.521011, 40.298904]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": 6.55,
+            "y2009": 7.25,
+            "y2010": 7.25,
+            "y2011": 7.25,
+            "y2012": 7.25,
+            "y2013": 7.25,
+            "y2014": 7.25,
+            "y2015": 7.25,
+            "y2016": 7.25,
+            "y2017": 7.25,
+            "y2018": 7.25,
+            "Rank": 49,
+            "SENATOR": "Tom Udall",
+            "PARTY": "D",
+            "STATE": "NM",
+            "NET": "1,985,515 ",
+            "MAXNET": "3,335,998 ",
+            "NAME": "New Mexico",
+            "": "",
+            "name": "Wyoming"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-106.248482, 34.840515]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 70,
+            "SENATOR": "Martin Heinrich",
+            "PARTY": "D",
+            "STATE": "NM",
+            "NET": "309,017 ",
+            "MAXNET": "979,998 ",
+            "NAME": "New Mexico",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-106.248482, 34.840515]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 56,
+            "SENATOR": "Charles E Schumer",
+            "PARTY": "D",
+            "STATE": "NY",
+            "NET": "1,122,521 ",
+            "MAXNET": "1,874,999 ",
+            "NAME": "New York",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.948051, 42.165726]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 71,
+            "SENATOR": "Kirsten Gillibrand",
+            "PARTY": "D",
+            "STATE": "NY",
+            "NET": "296,004 ",
+            "MAXNET": "430,000 ",
+            "NAME": "New York",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.948051, 42.165726]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 14,
+            "SENATOR": "Rob Portman",
+            "PARTY": "R",
+            "STATE": "OH",
+            "NET": "10,827,545 ",
+            "MAXNET": "15,930,000 ",
+            "NAME": "Ohio",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.764915, 40.388783]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 72,
+            "SENATOR": "Sherrod Brown",
+            "PARTY": "D",
+            "STATE": "OH",
+            "NET": "263,005 ",
+            "MAXNET": "689,998 ",
+            "NAME": "Ohio",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.764915, 40.388783]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 28,
+            "SENATOR": "James M Inhofe",
+            "PARTY": "R",
+            "STATE": "OK",
+            "NET": "5,157,006 ",
+            "MAXNET": "7,946,000 ",
+            "NAME": "Oklahoma",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.928917, 35.565342]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 73,
+            "SENATOR": "James Lankford",
+            "PARTY": "R",
+            "STATE": "OK",
+            "NET": "116,509 ",
+            "MAXNET": "392,999 ",
+            "NAME": "Oklahoma",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-96.928917, 35.565342]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 23,
+            "SENATOR": "Ron Wyden",
+            "PARTY": "D",
+            "STATE": "OR",
+            "NET": "6,877,025 ",
+            "MAXNET": "8,384,003 ",
+            "NAME": "Oregon",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.070938, 44.572021]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 44,
+            "SENATOR": "Jeff Merkley",
+            "PARTY": "D",
+            "STATE": "OR",
+            "NET": "2,603,008 ",
+            "MAXNET": "4,225,998 ",
+            "NAME": "Oregon",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-122.070938, 44.572021]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 48,
+            "SENATOR": "Pat Toomey",
+            "PARTY": "R",
+            "STATE": "PA",
+            "NET": "2,038,029 ",
+            "MAXNET": "3,354,998 ",
+            "NAME": "Pennsylvania",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.209755, 40.590752]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 64,
+            "SENATOR": "Bob Casey",
+            "PARTY": "D",
+            "STATE": "PA",
+            "NET": "609,007 ",
+            "MAXNET": "1,075,995 ",
+            "NAME": "Pennsylvania",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.209755, 40.590752]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 21,
+            "SENATOR": "Sheldon Whitehouse",
+            "PARTY": "D",
+            "STATE": "RI",
+            "NET": "7,443,628 ",
+            "MAXNET": "11,822,998 ",
+            "NAME": "Rhode Island",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.51178, 41.680893]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 74,
+            "SENATOR": "Jack Reed",
+            "PARTY": "D",
+            "STATE": "RI",
+            "NET": "107,026 ",
+            "MAXNET": "775,998 ",
+            "NAME": "Rhode Island",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.51178, 41.680893]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 57,
+            "SENATOR": "Lindsey Graham",
+            "PARTY": "R",
+            "STATE": "SC",
+            "NET": "969,022 ",
+            "MAXNET": "1,679,999 ",
+            "NAME": "South Carolina",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.945007, 33.856892]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 82,
+            "SENATOR": "Tim Scott",
+            "PARTY": "R",
+            "STATE": "SC",
+            "NET": "(1,053,997)",
+            "MAXNET": "(245,007)",
+            "NAME": "South Carolina",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.945007, 33.856892]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 30,
+            "SENATOR": "Mike Rounds",
+            "PARTY": "R",
+            "STATE": "SD",
+            "NET": "4,532,031 ",
+            "MAXNET": "10,506,998 ",
+            "NAME": "South Dakota",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-99.438828, 44.299782]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 69,
+            "SENATOR": "John Thune",
+            "PARTY": "R",
+            "STATE": "SD",
+            "NET": "310,512 ",
+            "MAXNET": "569,999 ",
+            "NAME": "South Dakota",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-99.438828, 44.299782]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 9,
+            "SENATOR": "Lamar Alexander",
+            "PARTY": "R",
+            "STATE": "TN",
+            "NET": "25,919,044 ",
+            "MAXNET": "61,329,991 ",
+            "NAME": "Tennessee",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.692345, 35.747845]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 39,
+            "SENATOR": "Ted Cruz",
+            "PARTY": "R",
+            "STATE": "TX",
+            "NET": "3,198,068 ",
+            "MAXNET": "15,423,985 ",
+            "NAME": "Texas",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.563461, 31.054487]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 50,
+            "SENATOR": "John Cornyn",
+            "PARTY": "R",
+            "STATE": "TX",
+            "NET": "1,884,522 ",
+            "MAXNET": "2,694,999 ",
+            "NAME": "Texas",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.563461, 31.054487]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 68,
+            "SENATOR": "Mike Lee",
+            "PARTY": "R",
+            "STATE": "UT",
+            "NET": "414,005 ",
+            "MAXNET": "620,000 ",
+            "NAME": "Utah",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-111.862434, 40.150032]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 1,
+            "SENATOR": "Mark Warner",
+            "PARTY": "D",
+            "STATE": "VA",
+            "NET": "214,092,575 ",
+            "MAXNET": "348,056,000 ",
+            "NAME": "Virginia",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.169968, 37.769337]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 60,
+            "SENATOR": "Tim Kaine",
+            "PARTY": "D",
+            "STATE": "VA",
+            "NET": "811,008 ",
+            "MAXNET": "1,212,999 ",
+            "NAME": "Virginia",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-78.169968, 37.769337]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 66,
+            "SENATOR": "Bernie Sanders",
+            "PARTY": "I",
+            "STATE": "VT",
+            "NET": "513,513 ",
+            "MAXNET": "1,054,999 ",
+            "NAME": "Vermont",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.710686, 44.045876]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 77,
+            "SENATOR": "Patrick Leahy",
+            "PARTY": "D",
+            "STATE": "VT",
+            "NET": "(85,496)",
+            "MAXNET": "159,999 ",
+            "NAME": "Vermont",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.710686, 44.045876]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 24,
+            "SENATOR": "Maria Cantwell",
+            "PARTY": "D",
+            "STATE": "WA",
+            "NET": "5,756,508 ",
+            "MAXNET": "10,418,994 ",
+            "NAME": "Washington",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.490494, 47.400902]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 53,
+            "SENATOR": "Patty Murray",
+            "PARTY": "D",
+            "STATE": "WA",
+            "NET": "1,687,010 ",
+            "MAXNET": "2,534,999 ",
+            "NAME": "Washington",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-121.490494, 47.400902]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 6,
+            "SENATOR": "Ron Johnson",
+            "PARTY": "R",
+            "STATE": "WI",
+            "NET": "39,233,507 ",
+            "MAXNET": "64,366,000 ",
+            "NAME": "Wisconsin",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.616508, 44.268543]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 55,
+            "SENATOR": "Tammy Baldwin",
+            "PARTY": "D",
+            "STATE": "WI",
+            "NET": "1,147,003 ",
+            "MAXNET": "1,859,998 ",
+            "NAME": "Wisconsin",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-89.616508, 44.268543]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 19,
+            "SENATOR": "Joe Manchin",
+            "PARTY": "D",
+            "STATE": "WV",
+            "NET": "7,623,534 ",
+            "MAXNET": "11,773,999 ",
+            "NAME": "West Virginia",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.954453, 38.491226]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 46,
+            "SENATOR": "Shelley Moore Capito",
+            "PARTY": "R",
+            "STATE": "WV",
+            "NET": "2,149,080 ",
+            "MAXNET": "4,522,991 ",
+            "NAME": "West Virginia",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-80.954453, 38.491226]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 17,
+            "SENATOR": "John A Barrasso",
+            "PARTY": "R",
+            "STATE": "WY",
+            "NET": "8,339,006 ",
+            "MAXNET": "13,145,000 ",
+            "NAME": "Wyoming",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-107.30249, 42.755966]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "y2008": "",
+            "y2009": "",
+            "y2010": "",
+            "y2011": "",
+            "y2012": "",
+            "y2013": "",
+            "y2014": "",
+            "y2015": "",
+            "y2016": "",
+            "y2017": "",
+            "y2018": "",
+            "Rank": 47,
+            "SENATOR": "Mike Enzi",
+            "PARTY": "R",
+            "STATE": "WY",
+            "NET": "2,137,028 ",
+            "MAXNET": "3,232,000 ",
+            "NAME": "Wyoming",
+            "": "",
+            "name": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-107.30249, 42.755966]
+        }
+    }]
+}

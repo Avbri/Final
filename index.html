@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>RAISE THE WAGE</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- CSS LIB-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans|Lora" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+
+    <!-- JS LIB -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.4/chroma.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.0/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js"></script>
+
+    <style>
+        html {
+            height: 100%;
+        }
+
+        a {
+            color: grey;
+        }
+
+        a:hover {
+            color: rgb(0, 51, 255);
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        h2 {
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 4em;
+            background-color: black;
+            color: grey;
+        }
+
+        h3 {
+            text-align: center;
+            color: lightgrey;
+          
+            font-size: 2em;
+        }
+
+        h5 {
+            font-size: x-small;
+            color: grey;
+            opacity: 0.4;
+            text-align: center;
+           
+
+        }
+
+        body {
+            height: 1100px;
+            padding: 10;
+            margin: 10;
+            background-color: black;
+            text-align: center;
+
+        }
+
+        #map {
+            width: 100vw;
+            height: 60vh;
+            padding: 5%;
+        }
+
+        #geojson {
+            color: whitesmoke;
+            outline-color: whitesmoke;
+        }
+
+        dark {
+            background-color: black;
+
+        }
+
+        .SIDE {
+            width: 100%;
+            height: 600px;
+            float: right;
+            overflow-y: scroll;
+            padding: 10px;
+            background-color: #f4f4f4;
+            border-left: 1px solid #ccc;
+        }
+
+        .property {
+            margin-bottom: 10px;
+        }
+
+        #highlightFeatures {
+            border: 5px;
+            color: yellow;
+            fill: blue;
+            opacity: 0.7;
+        }
+
+        .btn {
+            background-color: #080808;
+            position: relative;
+            width: fit-content;
+            border: none;
+            color: white;
+            padding-left: 10px;
+            text-align: left;
+            text-decoration: none;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        footer {
+            font-size: 1em;
+            text-align: center;
+            width: 100%;
+            padding-left: 50%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h2><a href="https://www.congress.gov/bill/118th-congress/senate-bill/2488/text
+        "><b></b>RAISE THE WAGE:</b></a></h2>
+    <h3><b>Federal minimum wage has not changed in 15 years.</b></h3>
+   <h4> While some states have implemented minimum wage requirements higher than the federal minimum, many states have
+    remained at the minimum <u><a href="https://www.npr.org/2024/07/24/nx-s1-5050573/federal-minimum-wage-increase-15-year-anniversary">for the last 15 years.</u></a></h4>
+    <h5>take a closer look by selecting a year:</h5>
+     <h5>double-click to zoom out and recenter map</h5>
+
+
+
+    </style>
+
+    <body>
+        <!--HEY THIS IS WHERE THE BUTTONS ARE, YEARS-->
+        <div class="row">
+
+            <div id="btn2018" class="col-sm-4"><button type="button" class="btn btn-dark">2018</button></div>
+
+            <div id="btn2013" class="col-sm-4"><button type="button" class="btn btn-dark">2013</button></div>
+
+            <div id="btn2008" class="col-sm-4"><button type="button" class="btn btn-dark">2008</button></div>
+
+
+
+            <div id='map'></div>
+                    <script>
+                        //basemap
+
+                        var map = L.map('map').setView([37.8, -96], 4);
+                        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+
+                        //state outlines
+                        var geojson = L.geoJSON.ajax("data/map.geojson").addTo(map);
+
+
+                        var initialCenter = [37.8, -96];
+    var initialZoom = 4;
+
+   
+    function resetMapCenterZoom() {
+      map.setView(initialCenter, initialZoom); 
+    }
+
+    
+    map.on('dblclick', resetMapCenterZoom);
+
+                        let pointsWagesData = {};
+
+                        
+                        fetch("data/pointswages.geojson")
+                            .then(response => response.json())
+                            .then(data => {
+                                data.features.forEach(feature => {
+                                    if (feature.properties && feature.properties.name) {
+                                        pointsWagesData[feature.properties.name] = feature.properties;
+                                    }
+                                });
+                            });
+
+                        
+                        var geojson2018 = L.geoJSON.ajax("data/map_2018.geojson", {
+                            style: feature => ({
+                                fillColor: chroma.scale('RdYlGn').domain([7.25, 13.25])(feature.properties
+                                    .F2018),
+                                weight: 2,
+                                color: 'white',
+                                fillOpacity: 0.85
+                            }),
+                            onEachFeature: (feature, layer) => {
+                                if (feature.properties && feature.properties.F2018) {
+                                    const formattedValue = `$${feature.properties.F2018.toFixed(2)}`;
+                                    layer.bindPopup(`Minimum Wage: ${formattedValue}`);
+                                }
+                                layer.on({
+                                    mouseover: e => highlightFeature(e),
+                                    mouseout: e => resetHighlight(e),
+                                    click: e => {
+                                        map.fitBounds(e.target.getBounds());
+
+                                        
+                                        const name = feature.properties.name;
+
+                                        
+                                        const relatedData = pointsWagesData[name];
+
+                                        
+                                        if (relatedData) {
+                                            const popupContent = `
+                        <h4>State Info:</h4>
+                        <b>Rank:</b> ${relatedData.Rank || 'N/A'}<br>
+                        <b>Party:</b> ${relatedData.PARTY || 'N/A'}<br>
+                        <b>Senator:</b> ${relatedData.SENATOR || 'N/A'}<br>
+                        <b>Est. 2018 Net Worth: $ ${relatedData.MAXNET || 'N/A'}<br></b>
+                        
+                        <b>Minimum Wage:</b> $${feature.properties.F2018.toFixed(2)}
+                    `;
+                                            layer.bindPopup(popupContent).openPopup();
+                                        }
+                                    }
+                                });
+                            }
+                        });
+
+                        document.getElementById('btn2018').addEventListener('click', function () {
+                            geojson2018.addTo(map); 
+                        });
+
+                        
+                        let pointsWagesData13 = {};
+
+                        
+                        fetch("data/pointswages.geojson")
+                            .then(response => response.json())
+                            .then(data => {
+                                data.features.forEach(feature => {
+                                    if (feature.properties && feature.properties.name) {
+                                        pointsWagesData13[feature.properties.name] = feature.properties;
+                                    }
+                                });
+                            });
+
+                        
+                        var geojson2013 = L.geoJSON.ajax("data/map_2013.geojson", {
+                            style: feature => ({
+                                fillColor: chroma.scale('RdYlGn').domain([6.15, 9.19])(feature.properties
+                                    .F2013),
+                                weight: 2,
+                                color: 'white',
+                                fillOpacity: 0.85
+                            }),
+                            onEachFeature: (feature, layer) => {
+                                if (feature.properties && feature.properties.F2013) {
+                                    const formattedValue = `$${feature.properties.F2013.toFixed(2)}`;
+                                    layer.bindPopup(`Minimum Wage: ${formattedValue}`);
+                                }
+                                layer.on({
+                                    mouseover: e => highlightFeature(e),
+                                    mouseout: e => resetHighlight(e),
+                                    click: e => {
+                                        map.fitBounds(e.target.getBounds());
+
+                                       
+                                        const name = feature.properties.name;
+
+                                        
+                                        const relatedData = pointsWagesData13[name];
+
+                                        
+                                        if (relatedData) {
+                                            const popupContent = `
+                        <h4>State Info:</h4>
+                        <b>Rank:</b> ${relatedData.Rank || 'N/A'}<br>
+                        <b>Party:</b> ${relatedData.PARTY || 'N/A'}<br>
+                        <b>SENATOR:</b> ${relatedData.SENATOR || 'N/A'}<br>
+                        <b>Est. 2018 Net Worth: $ ${relatedData.MAXNET || 'N/A'}<br></b>
+                        
+                        <b>Minimum Wage:</b> $${feature.properties.F2013.toFixed(2)}
+                    `;
+                                            layer.bindPopup(popupContent).openPopup();
+                                        }
+                                    }
+                                });
+                            }
+                        });
+
+                        document.getElementById('btn2013').addEventListener('click', function () {
+                            geojson2013.addTo(map); 
+                        });
+
+                       
+                       
+
+                       
+                     
+
+                        
+                        let pointsWagesData08 = {};
+
+                        
+                        fetch("data/pointswages.geojson")
+                            .then(response => response.json())
+                            .then(data => {
+                                data.features.forEach(feature => {
+                                    if (feature.properties && feature.properties.name) {
+                                        pointsWagesData08[feature.properties.name] = feature.properties;
+                                    }
+                                });
+                            });
+
+                        
+                        var geojson2008 = L.geoJSON.ajax("data/map_2008.geojson", {
+                            style: feature => ({
+                                fillColor: chroma.scale('RdYlGn').domain([5.58, 8.07])(feature.properties
+                                    .F2008),
+                                weight: 2,
+                                color: 'white',
+                                fillOpacity: 0.85
+                            }),
+                            onEachFeature: (feature, layer) => {
+                                if (feature.properties && feature.properties.F2008) {
+                                    const formattedValue = `$${feature.properties.F2008.toFixed(2)}`;
+                                    layer.bindPopup(`Minimum Wage: ${formattedValue}`);
+                                }
+                                layer.on({
+                                    mouseover: e => highlightFeature(e),
+                                    mouseout: e => resetHighlight(e),
+                                    click: e => {
+                                        map.fitBounds(e.target.getBounds());
+
+                                       
+                                        const name = feature.properties.name;
+
+                                        
+                                        const relatedData = pointsWagesData08[name];
+
+                                        
+                                        if (relatedData) {
+                                            const popupContent = `
+                        <h4>State Info:</h4>
+                        <b>Rank:</b> ${relatedData.Rank || 'N/A'}<br>
+                        <b>Party:</b> ${relatedData.PARTY || 'N/A'}<br>
+                        <b>SENATOR:</b> ${relatedData.SENATOR || 'N/A'}<br>
+                        <b>Est. 2018 Net Worth: $ ${relatedData.MAXNET || 'N/A'}<br></b>
+                        <b>Minimum Wage:</b> $${feature.properties.F2008.toFixed(2)}
+                    `;
+                                            layer.bindPopup(popupContent).openPopup();
+                                        }
+                                    }
+                                });
+                            }
+                        });
+
+                        document.getElementById('btn2008').addEventListener('click', function () {
+                            geojson2008.addTo(map); 
+                        });
+                    </script>
+                    <div id="footer" > 
+                
+                    <p>         Data in the map sourced from <a href="www.opensecrets.org"></b>Open Secrets.</a></p>
+                    <p>         map by aubri perez, 2024</p>
+                </div>
+    </body>
+    </head>
+
+</html>
